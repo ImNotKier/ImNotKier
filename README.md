@@ -3,15 +3,21 @@
   <img src="https://capsule-render.vercel.app/api?text=Kier%20Andrei%20Catibog%20✨&animation=fadeIn&type=venom&color=gradient&theme=cyberpunk&height=220&fontSize=48&fontColor=ffffff"/>
 </p>
 
-<!-- Custom Animated 8-Bit Character/GIF Placeholder -->
+<!-- Animated Anime Coding GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/your-favourite-anime-character-gif/giphy.gif" alt="Animated Character" width="150" />
+  <img src="https://i.pinimg.com/originals/2c/3e/8a/2c3e8a38c2018861df4395a1262cb979.gif" alt="Anime Coding GIF" width="300" style="border-radius: 15px;" />
 </p>
 
 <!-- 2. CONTACT / QUICK LINKS BADGES -->
 <p align="center">
   <a href="mailto:catibogkier8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -22,12 +28,16 @@
 ---
 
 <!-- 3. ABOUT ME (CLEAN YAML FORMAT) -->
-### 👨‍💻 About Me
+### 💻 The Pilot 
 
 ```yaml
 developer:
   name: "Kier Andrei D. Catibog"
-  pronouns: "he/him"
-  location: "Philippines"
-  current_focus: "Refining Java algorithms & full-stack development"
-  hobbies: "Exploring new tech tools, coding, and continuous learning"
+  class: "Full-Stack Mage / Java Specialist"
+  base: "Calamba, Philippines"
+  current_quest: "Refining Java algorithms & mastering full-stack architecture"
+  power_level: "Over 9000! ⚡"
+  hobbies: 
+    - "Exploring new tech stacks"
+    - "Watching top-tier anime (Shonen & Cyberpunk)"
+    - "Continuous learning and leveling up"
