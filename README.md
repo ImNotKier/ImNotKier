@@ -26,18 +26,3 @@
 </p>
 
 ---
-
-<!-- 3. ABOUT ME (CLEAN YAML FORMAT) -->
-### 💻 The Pilot 
-
-```yaml
-developer:
-  name: "Kier Andrei D. Catibog"
-  class: "Full-Stack Mage / Java Specialist"
-  base: "Calamba, Philippines"
-  current_quest: "Refining Java algorithms & mastering full-stack architecture"
-  power_level: "Over 9000! ⚡"
-  hobbies: 
-    - "Exploring new tech stacks"
-    - "Watching top-tier anime (Shonen & Cyberpunk)"
-    - "Continuous learning and leveling up"
